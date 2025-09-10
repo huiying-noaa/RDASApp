@@ -15,7 +15,7 @@
 	ignore = all
 [submodule "sorc/fv3-jedi"]
 	path = sorc/fv3-jedi
-	url = https://github.com/jcsda/fv3-jedi
+	url = https://github.com/huiying-noaa/fv3-jedi
 	branch = develop
 	ignore = all
 [submodule "sorc/fv3-jedi-km"]
@@ -55,7 +55,7 @@
 	ignore = all
 [submodule "sorc/ufo"]
 	path = sorc/ufo
-	url = https://github.com/jcsda/ufo
+	url = https://github.com/huiying-noaa/ufo
 	branch = develop
 	ignore = all
 [submodule "sorc/vader"]
